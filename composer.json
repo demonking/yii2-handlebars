@@ -1,14 +1,20 @@
 {
-    "name":        "e-frank/yii2-handlebars",
+    "name":        demonking/yii2-handlebars",
     "description": "Handlebars asset for yii2",
     "keywords":    ["yii2", "javascript", "handlebars", "asset", "bower"],
     "type":        "yii2-extension",
     "license":     "BSD-3-Clause",
+	"minimum-stability" : "dev",
     "authors": [
         {
             "name":     "Elmar Frank",
             "homepage": "http://yii.efrank.at/extension/handlebars"
-        }
+        },
+        {
+            "name":     "Denis Warsow",
+            "homepage": "stdedjub@gmail.com"
+        },
+
     ],
     "require": {
         "bower-asset/handlebars":  "*"
