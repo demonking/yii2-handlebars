@@ -1,5 +1,5 @@
 {
-    "name":        demonking/yii2-handlebars",
+    "name":        "demonking/yii2-handlebars",
     "description": "Handlebars asset for yii2",
     "keywords":    ["yii2", "javascript", "handlebars", "asset", "bower"],
     "type":        "yii2-extension",
@@ -12,9 +12,8 @@
         },
         {
             "name":     "Denis Warsow",
-            "homepage": "stdedjub@gmail.com"
-        },
-
+            "homepage": ""
+        }
     ],
     "require": {
         "bower-asset/handlebars":  "*"
